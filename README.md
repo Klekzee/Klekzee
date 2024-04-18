@@ -1,7 +1,7 @@
 # Hi there 👋
 
-💬 I'm Klenn Dungaran from the Philippines \
-🌱 I'm very interested in the field of Data Science and Machine Learning \
+💬 I'm Klenn from the Philippines \
+🌱 I'm very interested in the field of Data Analytics and Data Science \
 👯 I'll be glad to help out projects related to Data \
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/klenn-dungaran/)
 <!--

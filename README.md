@@ -1,20 +1,24 @@
-# Hi there 👋
+# 👋 Hi there
+![Header](Profile-Header.png)
 
-💬 I'm Klenn from the Philippines \
-🌱 I'm very interested in the field of Data Analytics and Data Science \
-👯 I'll be glad to help out projects related to Data \
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/klenn-dungaran/)
-<!--
-**Klekzee/Klekzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Klenn from the Philippines. A Data Analyst who excels in Data Wrangling and Analysis, Query Optimization, and Database Design.
 
-Here are some ideas to get you started:
+* Data Analysis using Spreadsheets / SQL / Python
+* Data Visualization using Tableau / Python
+* Querying using SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Portfolio
+
+Welcome to my [Portfolio](repo WIP).
+
+## 🛠️ Tools
+
+* Language: Python / SQL
+* Database: MySQL / PostgreSQL / Google BigQuery / SQLite
+* Visualization: Tableau / Python
+
+## 📫 Socials
+
+* [LinkedIn](https://www.linkedin.com/in/klenn-dungaran/)
+* [Kaggle](https://www.kaggle.com/klekzee)
+* [Tableau](https://public.tableau.com/app/profile/john.klenn.andrew.dungaran/vizzes)

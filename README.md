@@ -9,7 +9,7 @@ I'm Klenn from the Philippines. A Data Analyst who excels in Data Wrangling and 
 
 ## 📚 Portfolio
 
-Welcome to my [Portfolio](Portfolio-Guide/README.md).
+Welcome to my [Portfolio](Klekzee/Portfolio-Guide/README.md).
 
 ## 🛠️ Tools
 
